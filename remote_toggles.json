@@ -5,6 +5,7 @@
         "Space Presser": true
     },
     "features": {
-        "Weather Alert": true
+        "Weather Alert": true,
+        "Floor Alert": true
     }
 }
