@@ -2,7 +2,8 @@
     "_comment": "Upload this file to your GitHub repo and use the RAW URL in config.json -> remote_toggles.url",
     "macros": {
         "Breakfate": false,
-        "Space Presser": true
+        "Space Presser": true,
+        "Show Battle": true,
     },
     "features": {
         "Weather Alert": true,
