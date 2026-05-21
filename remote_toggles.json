@@ -5,7 +5,7 @@
         "Space Presser": true,
         "Show Battle": true,
         "Roll Pots": true,
-        "Floor Weather Pots": true
+        "Floor Weather Pots": false
     },
     "features": {
         "Weather Alert": true,
